@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.262ae84f.css",
+    "main.js": "/portfolio_react/static/js/main.bac2c4fb.js",
+    "static/js/787.2c1cee2b.chunk.js": "/portfolio_react/static/js/787.2c1cee2b.chunk.js",
+    "static/media/project_two.png": "/portfolio_react/static/media/project_two.93aff4746ea4ca6b3c8b.png",
+    "static/media/hero.png": "/portfolio_react/static/media/hero.1a97e2cedfcb683fb4d0.png",
+    "static/media/foodfinder-img.jpg": "/portfolio_react/static/media/foodfinder-img.8f1bc696c9e1af213b7e.jpg",
+    "static/media/portfolio_photo.jpg": "/portfolio_react/static/media/portfolio_photo.7966bc3509e40032e906.jpg",
+    "static/media/quiz challenge.png": "/portfolio_react/static/media/quiz challenge.d85f6f1841f587cf4765.png",
+    "static/media/react.svg": "/portfolio_react/static/media/react.ab0c92eb134cc72fbfef59d42fcd2038.svg",
+    "static/media/logo.svg": "/portfolio_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/telegram_icon.svg": "/portfolio_react/static/media/telegram_icon.a18f563757a3e9bf517428913f24aa5d.svg",
+    "static/media/github_icon.svg": "/portfolio_react/static/media/github_icon.40cef0225b8552b307ac3488e0711cc7.svg",
+    "static/media/js.svg": "/portfolio_react/static/media/js.191bdfb63600ea3e51594d32ab23f4a8.svg",
+    "index.html": "/portfolio_react/index.html",
+    "static/media/css.svg": "/portfolio_react/static/media/css.70e9883d4909cc579ab7636daa1c6ac9.svg",
+    "static/media/mail_icon.svg": "/portfolio_react/static/media/mail_icon.47424fe1cc1b39ebf7ed706cd169af01.svg",
+    "static/media/html_5.svg": "/portfolio_react/static/media/html_5.63135e2eaf0166ae992c0d4bdf363c8d.svg",
+    "main.262ae84f.css.map": "/portfolio_react/static/css/main.262ae84f.css.map",
+    "main.bac2c4fb.js.map": "/portfolio_react/static/js/main.bac2c4fb.js.map",
+    "787.2c1cee2b.chunk.js.map": "/portfolio_react/static/js/787.2c1cee2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262ae84f.css",
+    "static/js/main.bac2c4fb.js"
+  ]
+}
